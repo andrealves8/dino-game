@@ -1,4 +1,4 @@
-# Dino-Game  ![dino](C:\workspace\dino-game\dino.png)  ![cactus](C:\workspace\dino-game\cactus.png)
+# Dino-Game
 
 André Alves
 
