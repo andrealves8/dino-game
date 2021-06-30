@@ -1,5 +1,7 @@
 # Dino-Game
 
+JOGO DO DINOSAURO DO GOOGLE CHROME QUANDO ESTÁ SEM CONEXÃO
+
 André Alves
 
 https://github.com/andrealves8
