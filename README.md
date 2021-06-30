@@ -2,6 +2,8 @@
 
 JOGO DO DINOSAURO DO GOOGLE CHROME QUANDO ESTÁ SEM CONEXÃO
 
+<img src="./imagens/img.png">
+
 André Alves
 
 https://github.com/andrealves8
